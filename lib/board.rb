@@ -1,6 +1,6 @@
 class Board
 
-attr_accessor :board
+# attr_accessor :board
 
 	def initialize(player)
 		@player = player
